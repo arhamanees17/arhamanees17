@@ -13,6 +13,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-arhamanees.me-0553B1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arhamanees.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Arham_Anees-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-arham-anees)
+[![Instagram](https://img.shields.io/badge/Instagram-arhamanees.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arhamanees.dev)
 [![Gmail](https://img.shields.io/badge/Gmail-muhammadarhamanees17@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadarhamanees17@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-arhamanees17-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arhamanees17)
 
@@ -118,6 +119,7 @@ I'm actively looking for **Flutter internship opportunities**. If you're buildin
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-arhamanees.me-0553B1?style=for-the-badge)](https://arhamanees.me)
 [![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge)](mailto:muhammadarhamanees17@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/muhammad-arham-anees)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge)](https://instagram.com/arhamanees.dev)
 
 </div>
 
